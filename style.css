@@ -1,0 +1,31 @@
+#myname{
+    color:gold;
+    font-weight: bold;
+}
+
+.hello{
+    color:silver;
+    font-weight:lighter
+}
+
+.tennis{
+    background-color: greenyellow;
+}
+
+p {
+    font-weight: bold;
+    background-color: pink;
+    font-size: xx-large;
+    font-style: oblique;
+    font-family: serif;
+
+}
+div {
+    border-style:solid;
+    border-color:hsl(0, 100%, 50%);
+    border-bottom-color: coral;
+    border-left-style:dotted;
+    border-right-style:dotted;
+    border-top-color:coral;
+    border-width: 20px
+}
